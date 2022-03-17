@@ -1,0 +1,73 @@
+header{
+    background-color: #D6CCC2;
+    padding: 2%;
+}
+
+.caixa{
+    position: relative;
+    width: 940px 0;
+    margin: 0 auto;
+}
+
+header img {
+    width: 10%;
+}
+
+h1{
+    font-size: 250%;
+    font-family: arial;
+    font-weight: bolder;
+    text-transform: uppercase;
+    position: absolute;
+    left: 150;
+    top: 40%;
+}
+
+nav ul {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    font-family: arial;
+    font-size: 100%;
+    text-decoration: none;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 10px;
+}
+
+body{
+    background-color: #F5EBE0;
+}
+
+main {
+    margin: 4% 20%
+}
+
+h2{
+    font-size: 30px;
+    font-family: arial;
+    margin: 0 0 20px;
+}
+
+form label, form legend{
+    display: block;
+    font-size: 20px;
+    font-family: arial;
+}
+
+.input-padrao{
+    display: block;
+    margin: 0 0 15px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.radio{
+    margin: 20px 0 20px;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
